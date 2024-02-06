@@ -1,0 +1,24 @@
+[
+    {
+        "Mã số": "NV001",
+        "Mã bộ phận": "SALE001",
+        "Chức vụ": "Quản lý",
+        "Họ tên": "Nguyễn Văn A",
+        "Hệ số lương": 900000.0,
+        "Số ngày làm việc": 26.0,
+        "Hệ số hiệu quả": 1.5,
+        "Thưởng": 800000.0,
+        "Số ngày đi muộn": 0.0
+    },
+    {
+        "Mã số": "NV002",
+        "Mã bộ phận": "SALE002",
+        "Chức vụ": "Nhân viên",
+        "Họ tên": "Nguyễn Văn B",
+        "Hệ số lương": "300,000",
+        "Số ngày làm việc": 25.0,
+        "Hệ số hiệu quả": 0.8,
+        "Thưởng": "0",
+        "Số ngày đi muộn": 0.0
+    }
+]
